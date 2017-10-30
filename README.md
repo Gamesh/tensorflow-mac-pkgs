@@ -1,4 +1,4 @@
-# tensorflow-mac-pkgs
+# tensorflow packages for macosx
 tensorflow packages optimized for MacBook Pro late 2013
 Added support for:
 * SSE4.1
